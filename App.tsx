@@ -97,7 +97,7 @@ const App: React.FC = () => {
         <div className="mb-8 text-center space-y-6">
           <div className="space-y-2">
             <h2 className="text-3xl md:text-4xl font-bold text-slate-800 tracking-tight">
-              Semak Status & Matan Hadis
+              Hadis Korang Guna Dah Chek Ke Belum?
             </h2>
             <p className="text-slate-500 max-w-xl mx-auto">
               Masukkan kata kunci dalam Bahasa Melayu, Arab, atau sebahagian matan hadis untuk semakan pantas.
